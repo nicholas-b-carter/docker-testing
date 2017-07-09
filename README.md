@@ -1,5 +1,7 @@
 # react-redux-universal-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholas-b-carter/docker-testing.svg)](https://greenkeeper.io/)
+
 Another web app boilerplate, based on react and redux.
 
 This repo is a **Work in Progress**
